@@ -9,3 +9,11 @@ reference paper : Distributed Representations of Words and Phrases and their Com
 reference code : https://zhuanlan.zhihu.com/p/27296712
 
 data : https://github.com/NELSONZHAO/zhihu/tree/master/skip_gram/data
+
+* doc2vec
+
+reference paper : Distributed Representations of Sentences and Documents
+
+reference code : http://linanqiu.github.io/2015/10/07/word2vec-sentiment/
+
+data : https://github.com/linanqiu/word2vec-sentiments
