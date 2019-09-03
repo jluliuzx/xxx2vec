@@ -17,3 +17,11 @@ reference paper : Distributed Representations of Sentences and Documents
 reference code : http://linanqiu.github.io/2015/10/07/word2vec-sentiment/
 
 data : https://github.com/linanqiu/word2vec-sentiments
+
+* item2vec
+
+reference paper : Neural Item Embedding for Collaborative Filtering
+
+reference code : https://github.com/lujiaying/MovieTaster-Open
+
+data : https://github.com/lujiaying/MovieTaster-Open/tree/master/datas
