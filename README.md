@@ -25,3 +25,11 @@ reference paper : Neural Item Embedding for Collaborative Filtering
 reference code : https://github.com/lujiaying/MovieTaster-Open
 
 data : https://github.com/lujiaying/MovieTaster-Open/tree/master/datas
+
+* node2vec
+
+reference paper : DeepWalk: Online Learning of Social Representations
+
+reference code : https://github.com/shenweichen/GraphEmbedding
+
+data : https://github.com/shenweichen/GraphEmbedding/tree/master/data
